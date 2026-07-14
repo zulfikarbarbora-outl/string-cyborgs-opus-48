@@ -1,0 +1,2803 @@
+{
+  "library": "karoryfer.string-cyborgs",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/karoryfer.string-cyborgs",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/string-cyborgs-opus-48",
+  "branch": "master",
+  "fileCount": 224,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/",
+  "files": [
+    {
+      "file": "A1.opus",
+      "name": "A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/A1.opus",
+      "size": 46915,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A2.opus",
+      "name": "A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/A2.opus",
+      "size": 37022,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3.opus",
+      "name": "A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/A3.opus",
+      "size": 43979,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4.opus",
+      "name": "A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/A4.opus",
+      "size": 23401,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C1.opus",
+      "name": "C1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/C1.opus",
+      "size": 44355,
+      "note": "C1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2.opus",
+      "name": "C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/C2.opus",
+      "size": 37582,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.opus",
+      "name": "C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/C3.opus",
+      "size": 38352,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.opus",
+      "name": "C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/C4.opus",
+      "size": 38822,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/C5.opus",
+      "size": 24637,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb1.opus",
+      "name": "Eb1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/Eb1.opus",
+      "size": 39384,
+      "note": "Eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb2.opus",
+      "name": "Eb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/Eb2.opus",
+      "size": 31788,
+      "note": "Eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb3.opus",
+      "name": "Eb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/Eb3.opus",
+      "size": 25473,
+      "note": "Eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb4.opus",
+      "name": "Eb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/Eb4.opus",
+      "size": 24842,
+      "note": "Eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb1.opus",
+      "name": "Gb1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/Gb1.opus",
+      "size": 38918,
+      "note": "Gb1",
+      "midiNote": 30,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb2.opus",
+      "name": "Gb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/Gb2.opus",
+      "size": 24911,
+      "note": "Gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb3.opus",
+      "name": "Gb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/Gb3.opus",
+      "size": 29828,
+      "note": "Gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb4.opus",
+      "name": "Gb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/Gb4.opus",
+      "size": 33303,
+      "note": "Gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a0_dist.opus",
+      "name": "a0_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a0_dist.opus",
+      "size": 11614,
+      "note": "a0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a0_oscillator_tuned.opus",
+      "name": "a0_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a0_oscillator_tuned.opus",
+      "size": 14812,
+      "note": "a0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a0_oscillator_tuned_dist.opus",
+      "name": "a0_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a0_oscillator_tuned_dist.opus",
+      "size": 12794,
+      "note": "a0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a0_sc_dist.opus",
+      "name": "a0_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a0_sc_dist.opus",
+      "size": 12321,
+      "note": "a0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a0_single_cycle.opus",
+      "name": "a0_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a0_single_cycle.opus",
+      "size": 14357,
+      "note": "a0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1_dist.opus",
+      "name": "a1_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a1_dist.opus",
+      "size": 17897,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1_oscillator_tuned.opus",
+      "name": "a1_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a1_oscillator_tuned.opus",
+      "size": 18569,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1_oscillator_tuned_dist.opus",
+      "name": "a1_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a1_oscillator_tuned_dist.opus",
+      "size": 17193,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1_sc_dist.opus",
+      "name": "a1_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a1_sc_dist.opus",
+      "size": 17407,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1_single_cycle.opus",
+      "name": "a1_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a1_single_cycle.opus",
+      "size": 18056,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a2_dist.opus",
+      "name": "a2_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a2_dist.opus",
+      "size": 39311,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a2_oscillator_tuned.opus",
+      "name": "a2_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a2_oscillator_tuned.opus",
+      "size": 30009,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a2_oscillator_tuned_dist.opus",
+      "name": "a2_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a2_oscillator_tuned_dist.opus",
+      "size": 39778,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a2_sc_dist.opus",
+      "name": "a2_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a2_sc_dist.opus",
+      "size": 35301,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a2_single_cycle.opus",
+      "name": "a2_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a2_single_cycle.opus",
+      "size": 37265,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a3_dist.opus",
+      "name": "a3_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a3_dist.opus",
+      "size": 26601,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a3_oscillator_tuned.opus",
+      "name": "a3_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a3_oscillator_tuned.opus",
+      "size": 27276,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a3_oscillator_tuned_dist.opus",
+      "name": "a3_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a3_oscillator_tuned_dist.opus",
+      "size": 27157,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a3_sc_dist.opus",
+      "name": "a3_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a3_sc_dist.opus",
+      "size": 26647,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a3_single_cycle.opus",
+      "name": "a3_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a3_single_cycle.opus",
+      "size": 26990,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a4_dist.opus",
+      "name": "a4_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a4_dist.opus",
+      "size": 17826,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a4_oscillator_tuned.opus",
+      "name": "a4_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a4_oscillator_tuned.opus",
+      "size": 17981,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a4_oscillator_tuned_dist.opus",
+      "name": "a4_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a4_oscillator_tuned_dist.opus",
+      "size": 18652,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a4_sc_dist.opus",
+      "name": "a4_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a4_sc_dist.opus",
+      "size": 27848,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a4_single_cycle.opus",
+      "name": "a4_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/a4_single_cycle.opus",
+      "size": 27006,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c1_dist.opus",
+      "name": "c1_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c1_dist.opus",
+      "size": 30509,
+      "note": "c1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c1_oscillator_tuned.opus",
+      "name": "c1_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c1_oscillator_tuned.opus",
+      "size": 30092,
+      "note": "c1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c1_oscillator_tuned_dist.opus",
+      "name": "c1_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c1_oscillator_tuned_dist.opus",
+      "size": 29824,
+      "note": "c1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c1_sc_dist.opus",
+      "name": "c1_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c1_sc_dist.opus",
+      "size": 21262,
+      "note": "c1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c1_single_cycle.opus",
+      "name": "c1_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c1_single_cycle.opus",
+      "size": 20434,
+      "note": "c1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c2_dist.opus",
+      "name": "c2_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c2_dist.opus",
+      "size": 33690,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c2_oscillator_tuned.opus",
+      "name": "c2_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c2_oscillator_tuned.opus",
+      "size": 30974,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c2_oscillator_tuned_dist.opus",
+      "name": "c2_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c2_oscillator_tuned_dist.opus",
+      "size": 34065,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c2_sc_dist.opus",
+      "name": "c2_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c2_sc_dist.opus",
+      "size": 41397,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c2_single_cycle.opus",
+      "name": "c2_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c2_single_cycle.opus",
+      "size": 37673,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c3_dist.opus",
+      "name": "c3_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c3_dist.opus",
+      "size": 38529,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c3_oscillator_tuned.opus",
+      "name": "c3_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c3_oscillator_tuned.opus",
+      "size": 34663,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c3_oscillator_tuned_dist.opus",
+      "name": "c3_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c3_oscillator_tuned_dist.opus",
+      "size": 32960,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c3_sc_dist.opus",
+      "name": "c3_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c3_sc_dist.opus",
+      "size": 37308,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c3_single_cycle.opus",
+      "name": "c3_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c3_single_cycle.opus",
+      "size": 33035,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c4_dist.opus",
+      "name": "c4_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c4_dist.opus",
+      "size": 24965,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c4_oscillator_tuned.opus",
+      "name": "c4_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c4_oscillator_tuned.opus",
+      "size": 23316,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c4_oscillator_tuned_dist.opus",
+      "name": "c4_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c4_oscillator_tuned_dist.opus",
+      "size": 25769,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c4_sc_dist.opus",
+      "name": "c4_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c4_sc_dist.opus",
+      "size": 36143,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c4_single_cycle.opus",
+      "name": "c4_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/c4_single_cycle.opus",
+      "size": 33700,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb1_dist.opus",
+      "name": "eb1_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb1_dist.opus",
+      "size": 35707,
+      "note": "eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb1_oscillator_tuned.opus",
+      "name": "eb1_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb1_oscillator_tuned.opus",
+      "size": 50157,
+      "note": "eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb1_oscillator_tuned_dist.opus",
+      "name": "eb1_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb1_oscillator_tuned_dist.opus",
+      "size": 35155,
+      "note": "eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb1_sc_dist.opus",
+      "name": "eb1_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb1_sc_dist.opus",
+      "size": 28664,
+      "note": "eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb1_single_cycle.opus",
+      "name": "eb1_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb1_single_cycle.opus",
+      "size": 43139,
+      "note": "eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb2_dist.opus",
+      "name": "eb2_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb2_dist.opus",
+      "size": 36292,
+      "note": "eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb2_oscillator_tuned.opus",
+      "name": "eb2_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb2_oscillator_tuned.opus",
+      "size": 28815,
+      "note": "eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb2_oscillator_tuned_dist.opus",
+      "name": "eb2_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb2_oscillator_tuned_dist.opus",
+      "size": 39843,
+      "note": "eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb2_sc_dist.opus",
+      "name": "eb2_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb2_sc_dist.opus",
+      "size": 55102,
+      "note": "eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb2_single_cycle.opus",
+      "name": "eb2_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb2_single_cycle.opus",
+      "size": 56518,
+      "note": "eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb3_dist.opus",
+      "name": "eb3_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb3_dist.opus",
+      "size": 36650,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb3_oscillator_tuned.opus",
+      "name": "eb3_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb3_oscillator_tuned.opus",
+      "size": 37127,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb3_oscillator_tuned_dist.opus",
+      "name": "eb3_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb3_oscillator_tuned_dist.opus",
+      "size": 35680,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb3_sc_dist.opus",
+      "name": "eb3_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb3_sc_dist.opus",
+      "size": 39020,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb3_single_cycle.opus",
+      "name": "eb3_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb3_single_cycle.opus",
+      "size": 40104,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb4_dist.opus",
+      "name": "eb4_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb4_dist.opus",
+      "size": 25334,
+      "note": "eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb4_oscillator_tuned.opus",
+      "name": "eb4_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb4_oscillator_tuned.opus",
+      "size": 25551,
+      "note": "eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb4_oscillator_tuned_dist.opus",
+      "name": "eb4_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb4_oscillator_tuned_dist.opus",
+      "size": 26646,
+      "note": "eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb4_sc_dist.opus",
+      "name": "eb4_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb4_sc_dist.opus",
+      "size": 45840,
+      "note": "eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb4_single_cycle.opus",
+      "name": "eb4_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/eb4_single_cycle.opus",
+      "size": 42271,
+      "note": "eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_a1.opus",
+      "name": "full_a1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_a1.opus",
+      "size": 16226,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_a2.opus",
+      "name": "full_a2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_a2.opus",
+      "size": 26757,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_a3.opus",
+      "name": "full_a3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_a3.opus",
+      "size": 21355,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_a4.opus",
+      "name": "full_a4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_a4.opus",
+      "size": 22582,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_a5.opus",
+      "name": "full_a5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_a5.opus",
+      "size": 11736,
+      "note": "a5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_ab2.opus",
+      "name": "full_ab2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_ab2.opus",
+      "size": 23370,
+      "note": "ab2",
+      "midiNote": 44,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_ab3.opus",
+      "name": "full_ab3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_ab3.opus",
+      "size": 29699,
+      "note": "ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_ab4.opus",
+      "name": "full_ab4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_ab4.opus",
+      "size": 18173,
+      "note": "ab4",
+      "midiNote": 68,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_ab5.opus",
+      "name": "full_ab5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_ab5.opus",
+      "size": 12854,
+      "note": "ab5",
+      "midiNote": 80,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_b1.opus",
+      "name": "full_b1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_b1.opus",
+      "size": 26840,
+      "note": "b1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_b2.opus",
+      "name": "full_b2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_b2.opus",
+      "size": 28081,
+      "note": "b2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_b3.opus",
+      "name": "full_b3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_b3.opus",
+      "size": 17346,
+      "note": "b3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_b4.opus",
+      "name": "full_b4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_b4.opus",
+      "size": 17366,
+      "note": "b4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_bb1.opus",
+      "name": "full_bb1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_bb1.opus",
+      "size": 25771,
+      "note": "bb1",
+      "midiNote": 34,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_bb2.opus",
+      "name": "full_bb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_bb2.opus",
+      "size": 19812,
+      "note": "bb2",
+      "midiNote": 46,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_bb3.opus",
+      "name": "full_bb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_bb3.opus",
+      "size": 22443,
+      "note": "bb3",
+      "midiNote": 58,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_bb4.opus",
+      "name": "full_bb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_bb4.opus",
+      "size": 20045,
+      "note": "bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_c2.opus",
+      "name": "full_c2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_c2.opus",
+      "size": 27205,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_c3.opus",
+      "name": "full_c3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_c3.opus",
+      "size": 21637,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_c4.opus",
+      "name": "full_c4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_c4.opus",
+      "size": 16585,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_c5.opus",
+      "name": "full_c5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_c5.opus",
+      "size": 22619,
+      "note": "c5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_d2.opus",
+      "name": "full_d2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_d2.opus",
+      "size": 32531,
+      "note": "d2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_d3.opus",
+      "name": "full_d3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_d3.opus",
+      "size": 31215,
+      "note": "d3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_d4.opus",
+      "name": "full_d4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_d4.opus",
+      "size": 17377,
+      "note": "d4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_d5.opus",
+      "name": "full_d5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_d5.opus",
+      "size": 17129,
+      "note": "d5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_db2.opus",
+      "name": "full_db2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_db2.opus",
+      "size": 26418,
+      "note": "db2",
+      "midiNote": 37,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_db3.opus",
+      "name": "full_db3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_db3.opus",
+      "size": 25758,
+      "note": "db3",
+      "midiNote": 49,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_db4.opus",
+      "name": "full_db4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_db4.opus",
+      "size": 21455,
+      "note": "db4",
+      "midiNote": 61,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_db5.opus",
+      "name": "full_db5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_db5.opus",
+      "size": 17652,
+      "note": "db5",
+      "midiNote": 73,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_e2.opus",
+      "name": "full_e2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_e2.opus",
+      "size": 24122,
+      "note": "e2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_e3.opus",
+      "name": "full_e3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_e3.opus",
+      "size": 25355,
+      "note": "e3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_e4.opus",
+      "name": "full_e4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_e4.opus",
+      "size": 20178,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_e5.opus",
+      "name": "full_e5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_e5.opus",
+      "size": 17706,
+      "note": "e5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_eb2.opus",
+      "name": "full_eb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_eb2.opus",
+      "size": 25187,
+      "note": "eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_eb3.opus",
+      "name": "full_eb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_eb3.opus",
+      "size": 20410,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_eb4.opus",
+      "name": "full_eb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_eb4.opus",
+      "size": 16697,
+      "note": "eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_eb5.opus",
+      "name": "full_eb5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_eb5.opus",
+      "size": 16037,
+      "note": "eb5",
+      "midiNote": 75,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_f2.opus",
+      "name": "full_f2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_f2.opus",
+      "size": 18186,
+      "note": "f2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_f3.opus",
+      "name": "full_f3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_f3.opus",
+      "size": 25938,
+      "note": "f3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_f4.opus",
+      "name": "full_f4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_f4.opus",
+      "size": 22164,
+      "note": "f4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_f5.opus",
+      "name": "full_f5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_f5.opus",
+      "size": 17842,
+      "note": "f5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_g2.opus",
+      "name": "full_g2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_g2.opus",
+      "size": 24250,
+      "note": "g2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_g3.opus",
+      "name": "full_g3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_g3.opus",
+      "size": 34804,
+      "note": "g3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_g4.opus",
+      "name": "full_g4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_g4.opus",
+      "size": 19442,
+      "note": "g4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_g5.opus",
+      "name": "full_g5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_g5.opus",
+      "size": 14529,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_gb2.opus",
+      "name": "full_gb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_gb2.opus",
+      "size": 18207,
+      "note": "gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_gb3.opus",
+      "name": "full_gb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_gb3.opus",
+      "size": 29320,
+      "note": "gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_gb4.opus",
+      "name": "full_gb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_gb4.opus",
+      "size": 22354,
+      "note": "gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "full_gb5.opus",
+      "name": "full_gb5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/full_gb5.opus",
+      "size": 16754,
+      "note": "gb5",
+      "midiNote": 78,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb1_dist.opus",
+      "name": "gb1_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb1_dist.opus",
+      "size": 22413,
+      "note": "gb1",
+      "midiNote": 30,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb1_oscillator_tuned.opus",
+      "name": "gb1_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb1_oscillator_tuned.opus",
+      "size": 37676,
+      "note": "gb1",
+      "midiNote": 30,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb1_oscillator_tuned_dist.opus",
+      "name": "gb1_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb1_oscillator_tuned_dist.opus",
+      "size": 23207,
+      "note": "gb1",
+      "midiNote": 30,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb1_sc_dist.opus",
+      "name": "gb1_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb1_sc_dist.opus",
+      "size": 25052,
+      "note": "gb1",
+      "midiNote": 30,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb1_single_cycle.opus",
+      "name": "gb1_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb1_single_cycle.opus",
+      "size": 27430,
+      "note": "gb1",
+      "midiNote": 30,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb2_dist.opus",
+      "name": "gb2_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb2_dist.opus",
+      "size": 35862,
+      "note": "gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb2_oscillator_tuned.opus",
+      "name": "gb2_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb2_oscillator_tuned.opus",
+      "size": 42379,
+      "note": "gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb2_oscillator_tuned_dist.opus",
+      "name": "gb2_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb2_oscillator_tuned_dist.opus",
+      "size": 34901,
+      "note": "gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb2_sc_dist.opus",
+      "name": "gb2_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb2_sc_dist.opus",
+      "size": 44557,
+      "note": "gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb2_single_cycle.opus",
+      "name": "gb2_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb2_single_cycle.opus",
+      "size": 49697,
+      "note": "gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb3_dist.opus",
+      "name": "gb3_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb3_dist.opus",
+      "size": 32916,
+      "note": "gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb3_oscillator_tuned.opus",
+      "name": "gb3_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb3_oscillator_tuned.opus",
+      "size": 32691,
+      "note": "gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb3_oscillator_tuned_dist.opus",
+      "name": "gb3_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb3_oscillator_tuned_dist.opus",
+      "size": 35570,
+      "note": "gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb3_sc_dist.opus",
+      "name": "gb3_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb3_sc_dist.opus",
+      "size": 37538,
+      "note": "gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb3_single_cycle.opus",
+      "name": "gb3_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb3_single_cycle.opus",
+      "size": 37048,
+      "note": "gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb4_dist.opus",
+      "name": "gb4_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb4_dist.opus",
+      "size": 26253,
+      "note": "gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb4_oscillator_tuned.opus",
+      "name": "gb4_oscillator_tuned.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb4_oscillator_tuned.opus",
+      "size": 27462,
+      "note": "gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb4_oscillator_tuned_dist.opus",
+      "name": "gb4_oscillator_tuned_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb4_oscillator_tuned_dist.opus",
+      "size": 27087,
+      "note": "gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb4_sc_dist.opus",
+      "name": "gb4_sc_dist.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb4_sc_dist.opus",
+      "size": 40572,
+      "note": "gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb4_single_cycle.opus",
+      "name": "gb4_single_cycle.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/gb4_single_cycle.opus",
+      "size": 39477,
+      "note": "gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "noise_osc1.opus",
+      "name": "noise_osc1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/noise_osc1.opus",
+      "size": 18916,
+      "note": "c1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "noise_osc2.opus",
+      "name": "noise_osc2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/noise_osc2.opus",
+      "size": 22263,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "noise_osc3.opus",
+      "name": "noise_osc3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/noise_osc3.opus",
+      "size": 21946,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "noiseosc_1.opus",
+      "name": "noiseosc_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/noiseosc_1.opus",
+      "size": 92939,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "noiseosc_2.opus",
+      "name": "noiseosc_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/noiseosc_2.opus",
+      "size": 52220,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "noiseosc_3.opus",
+      "name": "noiseosc_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/noiseosc_3.opus",
+      "size": 30497,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "noiseosc_4.opus",
+      "name": "noiseosc_4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/noiseosc_4.opus",
+      "size": 40950,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_a1.opus",
+      "name": "single_a1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_a1.opus",
+      "size": 20859,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_a2.opus",
+      "name": "single_a2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_a2.opus",
+      "size": 21545,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_a3.opus",
+      "name": "single_a3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_a3.opus",
+      "size": 27697,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_a4.opus",
+      "name": "single_a4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_a4.opus",
+      "size": 28062,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_a5.opus",
+      "name": "single_a5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_a5.opus",
+      "size": 30375,
+      "note": "a5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_ab2.opus",
+      "name": "single_ab2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_ab2.opus",
+      "size": 21692,
+      "note": "ab2",
+      "midiNote": 44,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_ab3.opus",
+      "name": "single_ab3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_ab3.opus",
+      "size": 37126,
+      "note": "ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_ab4.opus",
+      "name": "single_ab4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_ab4.opus",
+      "size": 29198,
+      "note": "ab4",
+      "midiNote": 68,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_ab5.opus",
+      "name": "single_ab5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_ab5.opus",
+      "size": 27467,
+      "note": "ab5",
+      "midiNote": 80,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_b1.opus",
+      "name": "single_b1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_b1.opus",
+      "size": 18152,
+      "note": "b1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_b2.opus",
+      "name": "single_b2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_b2.opus",
+      "size": 17421,
+      "note": "b2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_b3.opus",
+      "name": "single_b3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_b3.opus",
+      "size": 26545,
+      "note": "b3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_b4.opus",
+      "name": "single_b4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_b4.opus",
+      "size": 23239,
+      "note": "b4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_bb1.opus",
+      "name": "single_bb1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_bb1.opus",
+      "size": 19435,
+      "note": "bb1",
+      "midiNote": 34,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_bb2.opus",
+      "name": "single_bb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_bb2.opus",
+      "size": 18991,
+      "note": "bb2",
+      "midiNote": 46,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_bb3.opus",
+      "name": "single_bb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_bb3.opus",
+      "size": 29683,
+      "note": "bb3",
+      "midiNote": 58,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_bb4.opus",
+      "name": "single_bb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_bb4.opus",
+      "size": 25664,
+      "note": "bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_c2.opus",
+      "name": "single_c2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_c2.opus",
+      "size": 16353,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_c3.opus",
+      "name": "single_c3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_c3.opus",
+      "size": 25628,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_c4.opus",
+      "name": "single_c4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_c4.opus",
+      "size": 25757,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_c5.opus",
+      "name": "single_c5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_c5.opus",
+      "size": 23210,
+      "note": "c5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_d2.opus",
+      "name": "single_d2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_d2.opus",
+      "size": 18239,
+      "note": "d2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_d3.opus",
+      "name": "single_d3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_d3.opus",
+      "size": 29965,
+      "note": "d3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_d4.opus",
+      "name": "single_d4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_d4.opus",
+      "size": 26339,
+      "note": "d4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_d5.opus",
+      "name": "single_d5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_d5.opus",
+      "size": 24415,
+      "note": "d5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_db2.opus",
+      "name": "single_db2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_db2.opus",
+      "size": 15630,
+      "note": "db2",
+      "midiNote": 37,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_db3.opus",
+      "name": "single_db3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_db3.opus",
+      "size": 21963,
+      "note": "db3",
+      "midiNote": 49,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_db4.opus",
+      "name": "single_db4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_db4.opus",
+      "size": 24948,
+      "note": "db4",
+      "midiNote": 61,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_db5.opus",
+      "name": "single_db5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_db5.opus",
+      "size": 25793,
+      "note": "db5",
+      "midiNote": 73,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_e2.opus",
+      "name": "single_e2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_e2.opus",
+      "size": 18943,
+      "note": "e2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_e3.opus",
+      "name": "single_e3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_e3.opus",
+      "size": 33709,
+      "note": "e3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_e4.opus",
+      "name": "single_e4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_e4.opus",
+      "size": 24970,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_e5.opus",
+      "name": "single_e5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_e5.opus",
+      "size": 25272,
+      "note": "e5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_eb2.opus",
+      "name": "single_eb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_eb2.opus",
+      "size": 18700,
+      "note": "eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_eb3.opus",
+      "name": "single_eb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_eb3.opus",
+      "size": 31091,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_eb4.opus",
+      "name": "single_eb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_eb4.opus",
+      "size": 25374,
+      "note": "eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_eb5.opus",
+      "name": "single_eb5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_eb5.opus",
+      "size": 27260,
+      "note": "eb5",
+      "midiNote": 75,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_f2.opus",
+      "name": "single_f2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_f2.opus",
+      "size": 20239,
+      "note": "f2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_f3.opus",
+      "name": "single_f3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_f3.opus",
+      "size": 33381,
+      "note": "f3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_f4.opus",
+      "name": "single_f4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_f4.opus",
+      "size": 28856,
+      "note": "f4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_f5.opus",
+      "name": "single_f5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_f5.opus",
+      "size": 27142,
+      "note": "f5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_g2.opus",
+      "name": "single_g2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_g2.opus",
+      "size": 21262,
+      "note": "g2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_g3.opus",
+      "name": "single_g3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_g3.opus",
+      "size": 31350,
+      "note": "g3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_g4.opus",
+      "name": "single_g4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_g4.opus",
+      "size": 24396,
+      "note": "g4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_g5.opus",
+      "name": "single_g5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_g5.opus",
+      "size": 27128,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_gb2.opus",
+      "name": "single_gb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_gb2.opus",
+      "size": 19584,
+      "note": "gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_gb3.opus",
+      "name": "single_gb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_gb3.opus",
+      "size": 33927,
+      "note": "gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_gb4.opus",
+      "name": "single_gb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_gb4.opus",
+      "size": 24990,
+      "note": "gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "single_gb5.opus",
+      "name": "single_gb5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/single_gb5.opus",
+      "size": 28789,
+      "note": "gb5",
+      "midiNote": 78,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_A1.opus",
+      "name": "singlecycle_A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_A1.opus",
+      "size": 51737,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_A2.opus",
+      "name": "singlecycle_A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_A2.opus",
+      "size": 46404,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_A3.opus",
+      "name": "singlecycle_A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_A3.opus",
+      "size": 40844,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_A4.opus",
+      "name": "singlecycle_A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_A4.opus",
+      "size": 69178,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_C1.opus",
+      "name": "singlecycle_C1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_C1.opus",
+      "size": 54130,
+      "note": "C1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_C2.opus",
+      "name": "singlecycle_C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_C2.opus",
+      "size": 40731,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_C3.opus",
+      "name": "singlecycle_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_C3.opus",
+      "size": 49342,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_C4.opus",
+      "name": "singlecycle_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_C4.opus",
+      "size": 55389,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_C5.opus",
+      "name": "singlecycle_C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_C5.opus",
+      "size": 76148,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_Eb1.opus",
+      "name": "singlecycle_Eb1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_Eb1.opus",
+      "size": 48332,
+      "note": "Eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_Eb2.opus",
+      "name": "singlecycle_Eb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_Eb2.opus",
+      "size": 40953,
+      "note": "Eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_Eb3.opus",
+      "name": "singlecycle_Eb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_Eb3.opus",
+      "size": 48038,
+      "note": "Eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_Eb4.opus",
+      "name": "singlecycle_Eb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_Eb4.opus",
+      "size": 56103,
+      "note": "Eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_Gb1.opus",
+      "name": "singlecycle_Gb1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_Gb1.opus",
+      "size": 46971,
+      "note": "Gb1",
+      "midiNote": 30,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_Gb2.opus",
+      "name": "singlecycle_Gb2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_Gb2.opus",
+      "size": 47970,
+      "note": "Gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_Gb3.opus",
+      "name": "singlecycle_Gb3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_Gb3.opus",
+      "size": 50326,
+      "note": "Gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "singlecycle_Gb4.opus",
+      "name": "singlecycle_Gb4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/string-cyborgs-opus-48/master/singlecycle_Gb4.opus",
+      "size": 52429,
+      "note": "Gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "21": [
+      "a0_dist.opus",
+      "a0_oscillator_tuned.opus",
+      "a0_oscillator_tuned_dist.opus",
+      "a0_sc_dist.opus",
+      "a0_single_cycle.opus"
+    ],
+    "24": [
+      "C1.opus",
+      "c1_dist.opus",
+      "c1_oscillator_tuned.opus",
+      "c1_oscillator_tuned_dist.opus",
+      "c1_sc_dist.opus",
+      "c1_single_cycle.opus",
+      "noise_osc1.opus",
+      "singlecycle_C1.opus"
+    ],
+    "27": [
+      "Eb1.opus",
+      "eb1_dist.opus",
+      "eb1_oscillator_tuned.opus",
+      "eb1_oscillator_tuned_dist.opus",
+      "eb1_sc_dist.opus",
+      "eb1_single_cycle.opus",
+      "singlecycle_Eb1.opus"
+    ],
+    "30": [
+      "Gb1.opus",
+      "gb1_dist.opus",
+      "gb1_oscillator_tuned.opus",
+      "gb1_oscillator_tuned_dist.opus",
+      "gb1_sc_dist.opus",
+      "gb1_single_cycle.opus",
+      "singlecycle_Gb1.opus"
+    ],
+    "33": [
+      "A1.opus",
+      "a1_dist.opus",
+      "a1_oscillator_tuned.opus",
+      "a1_oscillator_tuned_dist.opus",
+      "a1_sc_dist.opus",
+      "a1_single_cycle.opus",
+      "full_a1.opus",
+      "single_a1.opus",
+      "singlecycle_A1.opus"
+    ],
+    "34": [
+      "full_bb1.opus",
+      "single_bb1.opus"
+    ],
+    "35": [
+      "full_b1.opus",
+      "single_b1.opus"
+    ],
+    "36": [
+      "C2.opus",
+      "c2_dist.opus",
+      "c2_oscillator_tuned.opus",
+      "c2_oscillator_tuned_dist.opus",
+      "c2_sc_dist.opus",
+      "c2_single_cycle.opus",
+      "full_c2.opus",
+      "noise_osc2.opus",
+      "single_c2.opus",
+      "singlecycle_C2.opus"
+    ],
+    "37": [
+      "full_db2.opus",
+      "single_db2.opus"
+    ],
+    "38": [
+      "full_d2.opus",
+      "single_d2.opus"
+    ],
+    "39": [
+      "Eb2.opus",
+      "eb2_dist.opus",
+      "eb2_oscillator_tuned.opus",
+      "eb2_oscillator_tuned_dist.opus",
+      "eb2_sc_dist.opus",
+      "eb2_single_cycle.opus",
+      "full_eb2.opus",
+      "single_eb2.opus",
+      "singlecycle_Eb2.opus"
+    ],
+    "40": [
+      "full_e2.opus",
+      "single_e2.opus"
+    ],
+    "41": [
+      "full_f2.opus",
+      "single_f2.opus"
+    ],
+    "42": [
+      "Gb2.opus",
+      "full_gb2.opus",
+      "gb2_dist.opus",
+      "gb2_oscillator_tuned.opus",
+      "gb2_oscillator_tuned_dist.opus",
+      "gb2_sc_dist.opus",
+      "gb2_single_cycle.opus",
+      "single_gb2.opus",
+      "singlecycle_Gb2.opus"
+    ],
+    "43": [
+      "full_g2.opus",
+      "single_g2.opus"
+    ],
+    "44": [
+      "full_ab2.opus",
+      "single_ab2.opus"
+    ],
+    "45": [
+      "A2.opus",
+      "a2_dist.opus",
+      "a2_oscillator_tuned.opus",
+      "a2_oscillator_tuned_dist.opus",
+      "a2_sc_dist.opus",
+      "a2_single_cycle.opus",
+      "full_a2.opus",
+      "single_a2.opus",
+      "singlecycle_A2.opus"
+    ],
+    "46": [
+      "full_bb2.opus",
+      "single_bb2.opus"
+    ],
+    "47": [
+      "full_b2.opus",
+      "single_b2.opus"
+    ],
+    "48": [
+      "C3.opus",
+      "c3_dist.opus",
+      "c3_oscillator_tuned.opus",
+      "c3_oscillator_tuned_dist.opus",
+      "c3_sc_dist.opus",
+      "c3_single_cycle.opus",
+      "full_c3.opus",
+      "noise_osc3.opus",
+      "single_c3.opus",
+      "singlecycle_C3.opus"
+    ],
+    "49": [
+      "full_db3.opus",
+      "single_db3.opus"
+    ],
+    "50": [
+      "full_d3.opus",
+      "single_d3.opus"
+    ],
+    "51": [
+      "Eb3.opus",
+      "eb3_dist.opus",
+      "eb3_oscillator_tuned.opus",
+      "eb3_oscillator_tuned_dist.opus",
+      "eb3_sc_dist.opus",
+      "eb3_single_cycle.opus",
+      "full_eb3.opus",
+      "single_eb3.opus",
+      "singlecycle_Eb3.opus"
+    ],
+    "52": [
+      "full_e3.opus",
+      "single_e3.opus"
+    ],
+    "53": [
+      "full_f3.opus",
+      "single_f3.opus"
+    ],
+    "54": [
+      "Gb3.opus",
+      "full_gb3.opus",
+      "gb3_dist.opus",
+      "gb3_oscillator_tuned.opus",
+      "gb3_oscillator_tuned_dist.opus",
+      "gb3_sc_dist.opus",
+      "gb3_single_cycle.opus",
+      "single_gb3.opus",
+      "singlecycle_Gb3.opus"
+    ],
+    "55": [
+      "full_g3.opus",
+      "single_g3.opus"
+    ],
+    "56": [
+      "full_ab3.opus",
+      "single_ab3.opus"
+    ],
+    "57": [
+      "A3.opus",
+      "a3_dist.opus",
+      "a3_oscillator_tuned.opus",
+      "a3_oscillator_tuned_dist.opus",
+      "a3_sc_dist.opus",
+      "a3_single_cycle.opus",
+      "full_a3.opus",
+      "single_a3.opus",
+      "singlecycle_A3.opus"
+    ],
+    "58": [
+      "full_bb3.opus",
+      "single_bb3.opus"
+    ],
+    "59": [
+      "full_b3.opus",
+      "single_b3.opus"
+    ],
+    "60": [
+      "C4.opus",
+      "c4_dist.opus",
+      "c4_oscillator_tuned.opus",
+      "c4_oscillator_tuned_dist.opus",
+      "c4_sc_dist.opus",
+      "c4_single_cycle.opus",
+      "full_c4.opus",
+      "single_c4.opus",
+      "singlecycle_C4.opus"
+    ],
+    "61": [
+      "full_db4.opus",
+      "single_db4.opus"
+    ],
+    "62": [
+      "full_d4.opus",
+      "single_d4.opus"
+    ],
+    "63": [
+      "Eb4.opus",
+      "eb4_dist.opus",
+      "eb4_oscillator_tuned.opus",
+      "eb4_oscillator_tuned_dist.opus",
+      "eb4_sc_dist.opus",
+      "eb4_single_cycle.opus",
+      "full_eb4.opus",
+      "single_eb4.opus",
+      "singlecycle_Eb4.opus"
+    ],
+    "64": [
+      "full_e4.opus",
+      "single_e4.opus"
+    ],
+    "65": [
+      "full_f4.opus",
+      "single_f4.opus"
+    ],
+    "66": [
+      "Gb4.opus",
+      "full_gb4.opus",
+      "gb4_dist.opus",
+      "gb4_oscillator_tuned.opus",
+      "gb4_oscillator_tuned_dist.opus",
+      "gb4_sc_dist.opus",
+      "gb4_single_cycle.opus",
+      "single_gb4.opus",
+      "singlecycle_Gb4.opus"
+    ],
+    "67": [
+      "full_g4.opus",
+      "single_g4.opus"
+    ],
+    "68": [
+      "full_ab4.opus",
+      "single_ab4.opus"
+    ],
+    "69": [
+      "A4.opus",
+      "a4_dist.opus",
+      "a4_oscillator_tuned.opus",
+      "a4_oscillator_tuned_dist.opus",
+      "a4_sc_dist.opus",
+      "a4_single_cycle.opus",
+      "full_a4.opus",
+      "single_a4.opus",
+      "singlecycle_A4.opus"
+    ],
+    "70": [
+      "full_bb4.opus",
+      "single_bb4.opus"
+    ],
+    "71": [
+      "full_b4.opus",
+      "single_b4.opus"
+    ],
+    "72": [
+      "C5.opus",
+      "full_c5.opus",
+      "single_c5.opus",
+      "singlecycle_C5.opus"
+    ],
+    "73": [
+      "full_db5.opus",
+      "single_db5.opus"
+    ],
+    "74": [
+      "full_d5.opus",
+      "single_d5.opus"
+    ],
+    "75": [
+      "full_eb5.opus",
+      "single_eb5.opus"
+    ],
+    "76": [
+      "full_e5.opus",
+      "single_e5.opus"
+    ],
+    "77": [
+      "full_f5.opus",
+      "single_f5.opus"
+    ],
+    "78": [
+      "full_gb5.opus",
+      "single_gb5.opus"
+    ],
+    "79": [
+      "full_g5.opus",
+      "single_g5.opus"
+    ],
+    "80": [
+      "full_ab5.opus",
+      "single_ab5.opus"
+    ],
+    "81": [
+      "full_a5.opus",
+      "single_a5.opus"
+    ]
+  }
+}
